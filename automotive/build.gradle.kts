@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.aaos_navigation"
+        applicationId = "com.example.aaos_place"
         minSdk = 33
         targetSdk = 34
         versionCode = 1

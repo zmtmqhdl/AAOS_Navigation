@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AAOS_Navigation"
+rootProject.name = "AAOS_Place"
 include(":automotive")
  

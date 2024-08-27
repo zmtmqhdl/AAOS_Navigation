@@ -26,11 +26,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AAOS_Navigation" >
+        android:theme="@style/Theme.AAOS_Place" >
         <meta-data android:name="androidx.car.app.minCarApiLevel"
             android:value="1" />
         <service
-            android:name="com.example.aaos_navigation.NavigationService"
+            android:name="com.example.aaos_place.PlaceService"
             android:exported="true">
             <intent-filter>
                 <action android:name="androidx.car.app.CarAppService"/>

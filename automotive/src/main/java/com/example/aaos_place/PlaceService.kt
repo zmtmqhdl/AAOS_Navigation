@@ -1,12 +1,12 @@
-package com.example.aaos_navigation
+package com.example.aaos_place
 
 import androidx.car.app.CarAppService
 import androidx.car.app.Session
 import androidx.car.app.validation.HostValidator
 
-class NavigationService : CarAppService() {
+class PlaceService : CarAppService() {
     override fun onCreateSession(): Session {
-        return NavigationSession()
+        return PlaceSession()
     }
 
     override fun createHostValidator(): HostValidator {

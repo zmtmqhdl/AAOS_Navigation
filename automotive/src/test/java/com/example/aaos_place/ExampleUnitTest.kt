@@ -1,4 +1,4 @@
-package com.example.aaos_navigation
+package com.example.aaos_place
 
 import org.junit.Test
 

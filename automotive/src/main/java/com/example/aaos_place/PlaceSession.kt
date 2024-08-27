@@ -1,10 +1,10 @@
-package com.example.aaos_navigation
+package com.example.aaos_place
 
 import androidx.car.app.Screen
 import androidx.car.app.Session
 
-class NavigationSession : Session() {
+class PlaceSession : Session() {
     override fun onCreateScreen(intent: android.content.Intent): Screen {
-        return NavigationScreen(carContext)
+        return PlaceScreen(carContext)
     }
 }

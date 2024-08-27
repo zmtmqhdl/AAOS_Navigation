@@ -1,4 +1,4 @@
-package com.example.aaos_navigation
+package com.example.aaos_place
 
 data class PlaceData(val name: String, val latitude: Double, val longitude: Double)
 

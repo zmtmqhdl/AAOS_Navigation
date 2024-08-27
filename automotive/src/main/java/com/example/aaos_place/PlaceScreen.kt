@@ -1,4 +1,4 @@
-package com.example.aaos_navigation
+package com.example.aaos_place
 
 import android.text.Spannable
 import android.text.SpannableString
@@ -15,7 +15,7 @@ import androidx.car.app.model.Row
 import androidx.car.app.model.Template
 import androidx.car.app.model.Metadata
 
-class NavigationScreen(carContext: CarContext) : Screen(carContext) {
+class PlaceScreen(carContext: CarContext) : Screen(carContext) {
     override fun onGetTemplate(): Template {
         val placesRepository = PlacesRepository()
         val itemListBuilder = ItemList.Builder()
