@@ -8,9 +8,9 @@ class PlacesRepository {
     fun getPlaces(): List<PlaceData> {
         // 예제 장소 데이터를 반환
         return listOf(
-            PlaceData("Place 1", 37.7749, -122.4194), // 샌프란시스코
-            PlaceData("Place 2", 34.0522, -118.2437), // 로스앤젤레스
-            PlaceData("Place 3", 40.7128, -74.0060)  // 뉴욕
+            PlaceData("서울", 37.5668, 126.9786),
+            PlaceData("부천", 37.5035, 126.7660),
+            PlaceData("대전", 36.3505, 127.3848)
         )
     }
 }

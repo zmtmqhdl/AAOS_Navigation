@@ -47,7 +47,7 @@ class NavigationScreen(carContext: CarContext) : Screen(carContext) {
 
         // PlaceListMapTemplate 생성
         return PlaceListMapTemplate.Builder()
-            .setTitle("Places")
+            .setTitle("저장된 장소")
             .setItemList(itemListBuilder.build())
             .build()
     }
