@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.AAOS_Navigation" parent="android:Theme.Material.Light.DarkActionBar" />
+</resources>
