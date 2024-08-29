@@ -39,7 +39,7 @@
         <activity
             android:name="androidx.car.app.activity.CarAppActivity"
             android:exported="true"
-            android:label="AAOS_Navigation"
+            android:label="AAOS_Place"
             android:launchMode="singleTask"
             android:theme="@android:style/Theme.DeviceDefault.NoActionBar">
             <intent-filter>
