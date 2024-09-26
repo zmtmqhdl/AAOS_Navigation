@@ -7,6 +7,14 @@ AAOS 환경에서 저장된 장소를 마커로 지도에 표기하는 앱
 
 <br>
 
+## 🧑‍💻 참여 인원
+|  <img src="https://github.com/user-attachments/assets/9bbe9e79-04b6-44b1-a68c-eae5a049c2ad" width="100" height="100">  |
+|:---:|
+| 김태훈 |
+| Front-End|
+
+<br>
+
 ## 📁 파일 설명 및 사용법
 - 앱을 실행시키면 AAOS 환경의 기기에서 지도가 나오며, 저장된 장소들의 위치가 지도에 마커로 표기됩니다.
 
