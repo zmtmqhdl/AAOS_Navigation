@@ -11,7 +11,7 @@ AAOS 환경에서 저장된 장소를 마커로 지도에 표기하는 앱
 |  <img src="https://github.com/user-attachments/assets/9bbe9e79-04b6-44b1-a68c-eae5a049c2ad" width="100" height="100">  |
 |:---:|
 | 김태훈 |
-| Front-End|
+| Android|
 
 <br>
 
